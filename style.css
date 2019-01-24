@@ -1,0 +1,141 @@
+H1{
+text-decoration: underline;
+}
+H2{
+text-decoration: underline;
+}
+p{
+font-size: 18px;
+color: black;
+}
+q{
+font-size: 18px;
+font-style: italic;
+color: black;
+}
+#liste{
+font-size: 20px;
+text-decoration: underline;
+}
+ul{
+font-size: 18px;
+}
+table{
+border-collapse: collapse;
+}
+td, th{
+border: 2px solid black;
+tr:nth-child(even) {background: #CCC};
+tr:nth-child(odd) {background: #FFF};
+}
+th{
+font-style: bold;
+font-size: 26px;
+text-decoration: underline;
+}
+td{
+font-size : 24px;
+}
+.conclusion{
+font-size: 20px;
+font-style: bold;
+}
+#copyright{
+font-size: 18px;
+font-style: italic;
+text-decoration: underline;
+}
+a{
+text-decoration: none;
+color: red;
+font-style: italic;
+font-size: 20px;
+}
+a:hover{
+text-decoration: unerline;
+color: green;
+}
+a:visited{
+color: purple;
+}
+body{
+width: 90%;
+margin: auto;
+background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Clouds_over_the_Atlantic_Ocean.jpg/1200px-Clouds_over_the_Atlantic_Ocean.jpg);
+background-repeat:no-repeat;
+background-position: bottom right;
+background-size: cover;
+font-family: 'Press Start 2P', cursive;
+}
+blockquote{
+    font-size: 20px;
+    font-size: 160%;
+    color: Black;
+    margin: 80px 80px;
+    margin-left: 100
+    width: 50%;
+    background: Silver;
+    border-width: 3px;
+    border-left-style: solid;
+    border-color: #842e1b;
+    padding-left: 30px;
+    font-style: italic;
+}
+.villageois{
+    border-width: 3px;
+    border-left-style: solid;
+    border-color: yellow;
+    padding-left: 30px
+}
+.fermier{
+    border-width: 3px;
+    border-left-style: solid;
+    border-color: green;
+    padding-left: 30px
+}
+.jaune { 
+    background: yellow;
+    white-space: nowrap;
+}
+.bien{
+    color: green;
+    white-space: nowrap;
+    text-transform: uppercase;
+}
+.mal{
+    color: red;
+    white-space: nowrap;
+    text-transform: uppercase;
+}
+tr:nth-child(even){
+    background: white
+}
+tr:nth-child(odd){
+    background: grey
+}
+.haut{
+    background-image:url(https://raw.githubusercontent.com/becodeorg/CRL-Woods-1.9/master/Parcours/01-Prairie/5.HTML-CSS/progressive-enhancement/bien.png?token=AsjS023gklMSyM5Un12UyoqtJEjPGphVks5cUrqQwA%3D%3D);
+    background-repeat:no-repeat;
+    padding-right: 1000;
+}
+.bas{
+    background-image:url(https://raw.githubusercontent.com/becodeorg/CRL-Woods-1.9/master/Parcours/01-Prairie/5.HTML-CSS/progressive-enhancement/mal.png?token=AsjS0yofb9bzC7hExzyGTxNjrJzSDPe2ks5cUrsNwA%3D%3D);
+    background-repeat:no-repeat;
+    padding-right: 1000;
+}
+.chat{
+    background-image:url(https://raw.githubusercontent.com/becodeorg/CRL-Woods-1.9/master/Parcours/01-Prairie/5.HTML-CSS/progressive-enhancement/chat.png?token=AsjS02XV2wWs40sAOmlRG-L_vbztWZHvks5cUr54wA%3D%3D);
+    background-repeat:no-repeat;
+    padding-right: 1000;
+}
+.paragraphe{
+    font-weight: bold;
+}
+.flotte {
+    float:right;
+    }
+    h1,h2{
+        font-family: 'Anton', cursive;
+        font-size: 2em;
+    }
+    
