@@ -138,4 +138,14 @@ tr:nth-child(odd){
         font-family: 'Anton', cursive;
         font-size: 2em;
     }
+    * {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-family: sans-serif;
+        font-size: 1em;
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: none; 
+    }
     
